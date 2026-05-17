@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#12121c"/>
+  <circle cx="400" cy="180" r="80" fill="rgba(139,92,246,0.25)"/>
+  <rect x="200" y="300" width="400" height="50" rx="25" fill="rgba(34,211,238,0.2)"/>
+  <text x="400" y="420" text-anchor="middle" fill="#64748b" font-family="system-ui" font-size="20">Subscription Platform</text>
+</svg>

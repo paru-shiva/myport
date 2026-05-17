@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#12121c"/>
+  <rect x="60" y="80" width="280" height="40" rx="8" fill="rgba(99,102,241,0.3)"/>
+  <rect x="60" y="140" width="680" height="70" rx="10" fill="rgba(255,255,255,0.06)"/>
+  <rect x="60" y="230" width="680" height="70" rx="10" fill="rgba(255,255,255,0.06)"/>
+  <rect x="60" y="320" width="680" height="70" rx="10" fill="rgba(255,255,255,0.06)"/>
+  <text x="400" y="420" text-anchor="middle" fill="#64748b" font-family="system-ui" font-size="20">Job Portal</text>
+</svg>
