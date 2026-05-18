@@ -20,5 +20,25 @@ export async function submitContactMessage({ name, email, message }) {
     );
   }
 
+  // resend email
+
+  const resendemail = async () => {
+    const { data, error } = await supabase.functions.invoke("resend-email", {
+      body: {
+        name,
+        email,
+        message,
+      },
+    });
+
+    if (error) {
+      console.log(error);
+    } else {
+      console.log(data);
+    }
+  };
+
+  resendemail();
+
   return data;
 }
